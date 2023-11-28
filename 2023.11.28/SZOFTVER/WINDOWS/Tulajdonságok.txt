@@ -1,0 +1,5 @@
+A Windows vizuális Operácíós redszer, könnyű és gyors a használata.
+
+Programok elindításához ikonokra kell kattintani. A start menüben gyorsan elérhető több fontos funkció.
+
+Több beleépített szoftverrel érkezik, PL: Paint. Tolltömb

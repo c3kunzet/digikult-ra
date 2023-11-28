@@ -1,0 +1,8 @@
+-Windows: -Paint: .PNG, .JPG
+	  -PPT:	  .PPT
+	  -Excel:  .XLS
+	  -Word:  .DOC, .DOCX
+	  -Jegyzettömb: .TXT
+
+
+	 

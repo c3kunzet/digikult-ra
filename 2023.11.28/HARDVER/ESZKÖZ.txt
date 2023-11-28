@@ -1,0 +1,9 @@
+-Gépház:
+    -Winchester
+    -Memóriakártya
+    -CPU
+    -Alaplap
+    -Merevlemez
+
+-Monitor
+    

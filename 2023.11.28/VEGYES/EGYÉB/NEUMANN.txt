@@ -1,0 +1,5 @@
+1. Aritmetikai egység
+2. Központi vezérlő egység
+3. Különböző memoríák
+4. Bemeneti; Kimeneti egység
+5. Tárolt program elve
